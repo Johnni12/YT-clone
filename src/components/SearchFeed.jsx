@@ -2,7 +2,7 @@ import React from 'react'
 
 const SearchFeed = () => {
   return (
-    <div>SearchFee</div>
+    <div>Dfgsjkd</div>
   )
 }
 
